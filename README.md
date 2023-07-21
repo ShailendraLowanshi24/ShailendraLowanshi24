@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendralowanshi24&" alt="shailendralowanshi24" /></p>
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/jshailendralowanshi24/jshailendralowanshi24/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shailendralowanshi24/shailendralowanshi24/blob/output/github-contribution-grid-snake.svg)
